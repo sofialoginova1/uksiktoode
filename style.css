@@ -206,7 +206,7 @@ li{
             width: 30%;
         padding: 10px 10px;
     justify-content: center;
-    margin-left: 100px;
+    margin-left: 80px;
     margin-bottom: -70px;
         }
 
@@ -259,7 +259,7 @@ li{
             cursor: pointer;
             font-size: 19px;
             font-family: 'Bell MT', monospace;
-            margin-left: 130px;
+            margin-left: 100px;
         }
         .select-size-buttons.active {
              border: 5px solid rebeccapurple;
