@@ -143,9 +143,9 @@ font-size: 15px;
 color: black;
 }
 a{
-    font-size: 30px;
+    font-size: 40px;
     color: black;
-    padding: 30px;
+    padding: 70px;
     text-decoration: none;
     align-self: center;
     font-family: 'Bell MT', monospace;
@@ -183,7 +183,7 @@ li{
     margin-right: 10px;
 }
 .btn.knopka i {
-    font-size: 20px;
+    font-size: 30px;
 }
 .dropdown-menu {
     width: auto;
